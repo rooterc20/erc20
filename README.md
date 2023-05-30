@@ -1,4 +1,4 @@
-## Hi There I'm Lumpy 
+## Hi There I'm Erc20
 ### I'm 14 years old developer
 #### I am working on python and I want to upload the works to github.
 You can click on telegram to contact me
