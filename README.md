@@ -16,7 +16,7 @@ You can click on telegram to contact me
 
 
 
-[telegram]: https://t.me/lumpy1337
+[telegram]: https://t.me/erc20global
 [youtube]: https://www.youtube.com/channel/UCIwE88m57O3cNGms7P6gJaQ
 
 ### Tech I Use
